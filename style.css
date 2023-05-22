@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(0, 0, 0, 0.829);
+}
+
+table {
+    border-color: rgb(57, 209, 90);
+    color: rgb(166, 221, 195);
+    border-radius: 15px;
+    text-align: center;
+}
+
+tr {
+    border-radius: 5px;
+}
+
+td {
+    border-radius: 5px;
+}
+
+th {
+    border-radius: 10px;
+}
